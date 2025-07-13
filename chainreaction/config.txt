@@ -528,3 +528,4 @@ vless://1523920e-b41f-42d9-970e-6f672b56f025@104.18.26.90:80?encryption=none&sec
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@104.18.26.90:2096?encryption=none&security=tls&sni=GqAlTbPs11.aBbAsAlIrAhMaTdIkH.OrG&allowInsecure=1&type=ws&host=GqAlTbPs11.aBbAsAlIrAhMaTdIkH.OrG&path=%2F#%5B%F0%9F%87%A8%F0%9F%87%A6%5Dt.me%2FConfigsHub
 vless://554c0366-e8d7-4a0d-b476-d340b5c5e6a5@test.jeanland.shop:46443?encryption=none&security=none&type=tcp&headerType=http&host=speedtest.net#%5B%F0%9F%87%AE%F0%9F%87%B7%5Dt.me%2FConfigsHub
 vless://029f4737-0bb2-477e-8c9f-2ffb7933e284@royal26.starlinkz.cloud:31878?encryption=none&security=none&type=tcp&headerType=http&host=confingplus#%5B%F0%9F%87%AE%F0%9F%87%B7%5Dt.me%2FConfigsHub
+vless://029f4737-0bb2-477e-8c9f-2ffb7933e284@royal26.starlinkz.cloud:31878?encryption=none&security=none&type=tcp&headerType=http&host=confingplus#%5B%F0%9F%87%AE%F0%9F%87%B7%5Dt.me%2FConfigsHub

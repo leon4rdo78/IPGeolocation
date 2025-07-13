@@ -1,68 +1,68 @@
-78.109.200.1 - IR - Afranet Co
-78.109.200.2 - IR - Afranet Co
-94.182.223.1 - IR - Tehran Server
-94.182.223.2 - IR - Tehran Server
-185.124.175.1 - IR - SADAFI
-185.124.175.2 - IR - SADAFI
-46.38.144.1 - IR - Peyman Ertebatat Pouya Company (Ltd)
-46.38.144.2 - IR - Peyman Ertebatat Pouya Company (Ltd)
-85.133.195.1 - IR - Tose Ertebatat Avid Mehregan Co.pjsc
-85.133.195.2 - IR - Tose Ertebatat Avid Mehregan Co.pjsc
-85.133.247.1 - IR - Sepanta Communication Development Co. Ltd
-85.133.247.2 - IR - Sepanta Communication Development Co. Ltd
-193.228.168.1 - IR - Mizban Dadeh Pardis .Ltd
-193.228.168.2 - IR - Mizban Dadeh Pardis .Ltd
-62.60.185.1 - IR - FanAvaran Mihan Mizban PJSC
-62.60.185.2 - IR - FanAvaran Mihan Mizban PJSC
-37.130.205.1 - IR - Mabna Cloud
-37.130.205.2 - IR - Mabna Cloud
+91.99.207.1 - IR - Parsonline
+91.99.207.2 - IR - Parsonline
+45.134.12.1 - RU - Aeza Group Ltd.
+45.134.12.2 - RU - Aeza Group Ltd.
+172.67.73.1 - CA - Cloudflare, Inc.
+172.67.73.2 - CA - Cloudflare, Inc.
+104.18.26.1 - CA - Cloudflare, Inc.
+104.18.26.2 - CA - Cloudflare, Inc.
+206.71.158.1 - NL - Macarne LLC
+206.71.158.2 - NL - Macarne LLC
+69.84.182.1 - US - Health Market Science
+69.84.182.2 - US - Health Market Science
+151.101.130.1 - US - Fastly, Inc.
+151.101.130.2 - US - Fastly, Inc.
+85.133.201.1 - IR - FanAvaran Mihan Mizban PJSC
+85.133.201.2 - IR - FanAvaran Mihan Mizban PJSC
+4.158.56.1 - GB - Microsoft Corporation
+4.158.56.2 - GB - Microsoft Corporation
+91.206.71.1 - NL - Cloudflare, Inc.
+91.206.71.2 - NL - Cloudflare, Inc.
+8.213.149.1 - KR - Alibaba (US) Technology Co., Ltd.
+8.213.149.2 - KR - Alibaba (US) Technology Co., Ltd.
+185.226.119.1 - IR - Noyan Abr Arvan Co. ( Private Joint Stock)
+185.226.119.2 - IR - Noyan Abr Arvan Co. ( Private Joint Stock)
+151.101.67.1 - US - Fastly, Inc.
+151.101.67.2 - US - Fastly, Inc.
+46.31.76.1 - TR - Teknosos Bilisim Hizmetleri VE Tic. Ltd. Sti.
+46.31.76.2 - TR - Teknosos Bilisim Hizmetleri VE Tic. Ltd. Sti.
+65.108.1.1 - FI - Hetzner Online GmbH
+65.108.1.2 - FI - Hetzner Online GmbH
+193.151.158.1 - IR - IR-AT
+193.151.158.2 - IR - IR-AT
+45.87.175.1 - US - SBL-OSL
+45.87.175.2 - US - SBL-OSL
+31.58.144.1 - DE - dataforest GmbH
+31.58.144.2 - DE - dataforest GmbH
+185.251.82.1 - ES - Cloudflare London, LLC
+185.251.82.2 - ES - Cloudflare London, LLC
+51.142.65.1 - GB - Microsoft Corporation
+51.142.65.2 - GB - Microsoft Corporation
 185.215.228.1 - IR - Respina Networks & Beyond PJSC
 185.215.228.2 - IR - Respina Networks & Beyond PJSC
 212.80.9.1 - IR - Giti Secure Cloud LLC
 212.80.9.2 - IR - Giti Secure Cloud LLC
-45.94.213.1 - IR - Padidar Technology PJSC
-45.94.213.2 - IR - Padidar Technology PJSC
-212.16.71.1 - IR - Damash Software
-212.16.71.2 - IR - Damash Software
-193.24.120.1 - IR - Web Dadeh Paydar Co (Ltd)
-193.24.120.2 - IR - Web Dadeh Paydar Co (Ltd)
-37.202.239.1 - IR - SHATEL Network
-37.202.239.2 - IR - SHATEL Network
-188.121.105.1 - IR - Noyan Abr Arvan Co. ( Private Joint Stock)
-188.121.105.2 - IR - Noyan Abr Arvan Co. ( Private Joint Stock)
-37.32.43.1 - IR - Nahor Hadish Design and Architecture Co., Ltd
-37.32.43.2 - IR - Nahor Hadish Design and Architecture Co., Ltd
-45.131.4.1 - IR - Cloudflare London, LLC
-45.131.4.2 - IR - Cloudflare London, LLC
-178.239.146.1 - IR - Mizban Dadeh Pardazi Pasargad Ltd
-178.239.146.2 - IR - Mizban Dadeh Pardazi Pasargad Ltd
-93.113.238.1 - IR - Afranet
-93.113.238.2 - IR - Afranet
-94.182.136.1 - IR - RASANA
-94.182.136.2 - IR - RASANA
-95.38.38.1 - IR - Atrin Information & Communications Technology Company PJS
-95.38.38.2 - IR - Atrin Information & Communications Technology Company PJS
-85.133.201.1 - IR - FanAvaran Mihan Mizban PJSC
-85.133.201.2 - IR - FanAvaran Mihan Mizban PJSC
-89.47.198.1 - IR - FanAvaran Mihan Mizban PJSC
-89.47.198.2 - IR - FanAvaran Mihan Mizban PJSC
-188.121.97.1 - IR - Noyan Abr Arvan Co. ( Private Joint Stock)
-188.121.97.2 - IR - Noyan Abr Arvan Co. ( Private Joint Stock)
-185.58.242.1 - IR - TSTOnline Network
-185.58.242.2 - IR - TSTOnline Network
-89.44.240.1 - IR - FanAvaran Mihan Mizban PJSC
-89.44.240.2 - IR - FanAvaran Mihan Mizban PJSC
-85.133.202.1 - IR - FanAvaran Mihan Mizban PJSC
-85.133.202.2 - IR - FanAvaran Mihan Mizban PJSC
-217.219.78.1 - IR - Iran Telecommunication Company PJS
-217.219.78.2 - IR - Iran Telecommunication Company PJS
-85.198.16.1 - IR - Asre Dadeha Asiatech
-85.198.16.2 - IR - Asre Dadeha Asiatech
-62.60.198.1 - IR - Tose'e Shabakeh Azad Ltd
-62.60.198.2 - IR - Tose'e Shabakeh Azad Ltd
-185.229.204.1 - IR - Asre Pardazeshe Ettelaate Amin Institute
-185.229.204.2 - IR - Asre Pardazeshe Ettelaate Amin Institute
-156.245.11.1 - HK - SonderCloud Limited
-156.245.11.2 - HK - SonderCloud Limited
-213.176.121.1 - IR - Amir Hosein Maaref
-213.176.121.2 - IR - Amir Hosein Maaref
+88.135.72.1 - IR - Web Dadeh Paydar Co (Ltd)
+88.135.72.2 - IR - Web Dadeh Paydar Co (Ltd)
+91.99.237.1 - DE - Parsonline
+91.99.237.2 - DE - Parsonline
+151.101.3.1 - US - Fastly, Inc.
+151.101.3.2 - US - Fastly, Inc.
+65.109.184.1 - FI - Hetzner Online GmbH
+65.109.184.2 - FI - Hetzner Online GmbH
+104.17.148.1 - CA - Cloudflare, Inc.
+104.17.148.2 - CA - Cloudflare, Inc.
+151.101.195.1 - US - Fastly, Inc.
+151.101.195.2 - US - Fastly, Inc.
+65.109.145.1 - FI - Hetzner Online GmbH
+65.109.145.2 - FI - Hetzner Online GmbH
+65.109.118.1 - FI - Hetzner Online GmbH
+65.109.118.2 - FI - Hetzner Online GmbH
+116.203.69.1 - DE - Hetzner Online GmbH
+116.203.69.2 - DE - Hetzner Online GmbH
+62.60.185.1 - IR - FanAvaran Mihan Mizban PJSC
+62.60.185.2 - IR - FanAvaran Mihan Mizban PJSC
+155.117.228.1 - HK - Akile LTD
+155.117.228.2 - HK - Akile LTD
+104.18.27.1 - CA - Cloudflare, Inc.
+104.18.27.2 - CA - Cloudflare, Inc.
